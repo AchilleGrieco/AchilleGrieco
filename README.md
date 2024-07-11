@@ -9,7 +9,7 @@
 
 <h2>📝 Certifications</h2>
 
-- [<img src="https://i.imgur.com/OKQhnO8.png"] [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8e0b8f13-df61-4aca-8979-6eba5735f3b2/public_url)
+- <img src="https://i.imgur.com/OKQhnO8.png" width="200"> [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8e0b8f13-df61-4aca-8979-6eba5735f3b2/public_url)
 - [Google Data Analytics Certificate](https://www.credly.com/badges/12890b63-f0bf-420c-aaa5-d9322048bedd/public_url)
 
 <h2>🤝 Connect with me:</h2>
