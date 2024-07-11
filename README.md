@@ -19,9 +19,17 @@
                 Practitioner</a>
         </td>
     </tr>
+      <tr>
+        <td align="center">
+            <img src="https://i.imgur.com/xlTychZ.png" style="width: 50px;">
+        </td>
+        <td align="center">
+            <a href="https://www.credly.com/badges/12890b63-f0bf-420c-aaa5-d9322048bedd/public_url">Google Data Analytics Certificate</a>
+        </td>
+    </tr>
 </table>
 
-- [Google Data Analytics Certificate](https://www.credly.com/badges/12890b63-f0bf-420c-aaa5-d9322048bedd/public_url)
+
 
 <h2>🤝 Connect with me:</h2>
 
