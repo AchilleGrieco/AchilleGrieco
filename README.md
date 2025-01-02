@@ -1,11 +1,11 @@
 <h1>Hi, I'm Achille! <br/><p>Backend Developer</p>
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Authentication System</b>
+- <b>Authentication System (Spring, PostgreSQL)</b>
   - [Authentication System](https://github.com/AchilleGrieco/authentication-system)
 - <b>Full Stack App (Spring, PostgreSQL, Flutter)</b>
   - [My Goals App](https://github.com/AchilleGrieco/mygoalsapp)
-- <b>Presets Tool (Spring, PostgreSQL, Flutter)</b>
+- <b>Presets Tool (Python)</b>
   - [Presets Tool](https://github.com/AchilleGrieco/presets-tool)
 
 
